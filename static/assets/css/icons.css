@@ -12,7 +12,6 @@
 [class^="icon-feather-"], [class*=" icon-feather-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Feather-Icons' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -1097,7 +1096,6 @@
 [class^="icon-brand-"], [class*=" icon-brand-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Brand-Icons' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -2569,7 +2567,6 @@
   font-family: "unicons";
   font-style: normal;
   font-weight: normal;
-  speak: none;
   display: inline-block;
   text-decoration: inherit;
   text-align: center;
@@ -7066,7 +7063,6 @@
 [class^="icon-material-"], [class*=" icon-material-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Material-Icons' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -7684,4 +7680,3 @@
 .icon-material-outline-where-to-vote:before {
   content: "\e992";
 }
-/*# sourceMappingURL=icons.css.map */
