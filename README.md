@@ -6,6 +6,9 @@
 Welcome to the Django Social Media App! This project is a simple yet powerful platform where users can connect, share, and interact with each other. Whether you want to stay updated on what your friends are doing or share your own moments, this app has you covered.
 
 ## Output Video
+https://github.com/user-attachments/assets/e0af148b-f7f6-43d7-aa02-7bdc3fa4b44a
+
+### Other link
 [Watch the video](outputVideo/SocialApp%20Output.mp4)
 
 ## Features
@@ -44,6 +47,7 @@ To get started with this project, follow these steps:
     python manage.py runserver
     ```
 6. **Make sure to make your own media folder**:
+   
     ![Structure of files](structure.png)
 
 ## How to Use
